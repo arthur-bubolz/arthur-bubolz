@@ -11,7 +11,7 @@
  
  <br>
  
-  ### Para mais conteúdos sobre programação me siga a nas redes abaixo!
+  ### Para mais conteúdos sobre programação acompanhe as redes abaixo!
  
 <div>  
   <a href = "mailto:arthurgomesbubolz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
